@@ -99,3 +99,34 @@ Friend's Call/
 │
 ├── README.md
 └── .gitignore
+
+## Run Project Locally
+
+### Clone the repository
+```txt
+git clone <your-repo-url>
+cd Friend's\ Call
+
+### Run Backend
+```txt
+cd backend
+npm install
+npm run dev
+
+
+### Backend runs on:
+```txt
+http://localhost:8000
+
+### Run Frontend
+
+Open a new terminal:
+```txt
+cd frontend
+npm install
+npm start
+
+
+### Frontend runs on:
+```txt
+http://localhost:3000
