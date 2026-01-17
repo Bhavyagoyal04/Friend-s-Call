@@ -42,6 +42,7 @@ Users can join a room using a meeting code (URL), connect with others, and commu
 
 ## Updated Project Structure
 
+```txt
 Friend's Call/
 │
 ├── backend/
