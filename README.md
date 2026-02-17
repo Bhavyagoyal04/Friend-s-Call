@@ -1,7 +1,7 @@
 # Friend's Call (WebRTC Video Calling + Chat)
 
 Friend's Call is a real-time video calling and chat application built using **WebRTC**, **Socket.IO**, **React**, and **Node.js**.  
-Users can join a room using a meeting code (URL), connect with others, and communicate through video/audio + chat.
+Users can join a room using a meeting code, connect with others, and communicate through video/audio + chat.
 
 ---
 
